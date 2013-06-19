@@ -1,0 +1,3 @@
+<?php
+
+// Proof-of-concept.
